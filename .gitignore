@@ -1,5 +1,6 @@
 index.js
 .git
-.github
+.github/workflows
 package-lock.json
 package.json
+node_modules
