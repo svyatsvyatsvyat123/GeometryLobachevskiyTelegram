@@ -1,2 +1,5 @@
 index.js
 .git
+.github
+package-lock.json
+package.json
